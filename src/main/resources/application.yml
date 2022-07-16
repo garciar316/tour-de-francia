@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      auto-index-creation: true
+      uri: mongodb+srv://sergio:1234@develop.uzga0.mongodb.net/tour?retryWrites=true&w=majority
